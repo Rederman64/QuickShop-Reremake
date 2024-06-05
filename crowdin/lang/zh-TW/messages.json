@@ -93,8 +93,8 @@
   "shops-removed-in-world": "&e世界 &b{1} &e總共有 &b{0} &e個商店被刪除。",
   "world-not-exists": "&c世界 &e{0}&c 不存在",
   "menu": {
-    "successful-purchase": "&a成功地購買：",
-    "successfully-sold": "&a成功地出售：",
+    "successful-purchase": "&a您已成功購買：",
+    "successfully-sold": "&a您已成功出售：",
     "item-name-and-price": "&a共 &e{2} &a的 &e{0} &a個 &e{1}",
     "sell-tax": "&a你付了 &e{0} &a的稅。",
     "sell-tax-self": "&a因為你是商店主人，所以不需要繳稅。",
